@@ -1,0 +1,20 @@
+	 
+	@media(max-width: 420px){
+	#content{
+	 height: 39.3rem;
+	 border-radius: 20px;
+	background-color: rgb(3 7 18);
+	text-align: center;
+
+}
+.navbar a{
+	position: relative;
+	right: 5rem;
+
+}
+#description{
+	margin-top: 15px;
+}
+		
+
+}

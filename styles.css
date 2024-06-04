@@ -1,0 +1,105 @@
+
+#content{
+	 height: 39.3rem;
+	 border-radius: 20px;
+	background-color: rgb(3 7 18);
+	text-align: center;
+
+}
+.navbar{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.navbar-brand{
+	font-size: 1.5rem;
+	line-height: 2rem;
+	text-decoration: none;
+	color: rgb(255 255 255);
+	font-family: 'Inter', sans-serif;
+}
+#description{
+	padding-top: 0.7rem;
+	padding-bottom: 0.7rem;
+	 border: none;
+	 border-radius: 0.2rem;
+	 background-color: rgb(31 41 55);
+	 margin-right: 0.3rem;
+	 color:rgb(255 255 255) ;
+	 font-size: 15px;
+	 font-family: 'Inter', sans-serif;
+}
+.inp-f{
+	display: inline-block;
+}
+.task-f{
+	display: inline-block;
+}
+.card-header h3{
+	display: inline-block;
+}
+i{
+	font-size: 1.4rem;
+	color:rgb(31 41 55) ;
+}
+.btn-add{
+	padding-top: 0.7rem;
+	padding-bottom: 0.7rem;
+	 border-radius: 0.2rem;
+	 border: none;
+	 background-color:  rgb(255 255 255); 
+}
+.btn-add:hover{
+	background-color: #e5e7eb;
+	cursor: pointer;
+}
+ .card-add{
+ 		background-color: rgb(31 41 55);
+ 		color:rgb(156 163 175);
+ 		display: inline-block;
+ 		padding-top: 1.2rem;
+	    padding-bottom: 1.2rem;
+	    padding-left: 0.3rem;
+	    padding-right: 0.3rem;
+	    border-radius: 6px;
+	    margin-bottom: 9px;
+	    font-size: 15px;
+	    font-family: 'Inter', sans-serif;
+ }
+h3{
+	color: rgb(255 255 255);
+	font-family: 'Inter', sans-serif;
+}
+ 
+.desc a{
+	padding-left: 0.8rem;
+	padding-right: 0.8rem;
+	color:rgb(156 163 175);
+	text-decoration: none;
+}
+.compl{
+	background-color: rgb(31 41 55);
+ 		color:rgb(156 163 175);
+ 		display: inline-block;
+ 		padding-top: 0.8rem;
+	    padding-bottom: 0.8rem;
+	    border-radius: 6px;
+	    margin-bottom: 9px;
+	    font-size: 15px;
+	    font-family: 'Inter', sans-serif;
+
+}
+.compl i{
+	color: red;
+	padding-left: 0.8rem;
+}
+.compl p{
+	display: inline-block;
+	padding-right: 0.8rem;
+}
+.sucess{
+	color:green;
+}
+.danger{
+	color: red;
+}
